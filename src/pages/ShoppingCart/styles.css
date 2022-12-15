@@ -1,0 +1,81 @@
+.cart-container{
+    display: flex;
+    flex-direction: row;
+}
+.cart-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #222;
+  width: 80vw;
+  font-size: 22px;
+}
+
+.cart-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.trash-btn {
+  background: #222;
+  width: 40px;
+  border-radius: 20px;
+  margin-right: 15px;
+  box-shadow: 3px 3px #aaa;
+}
+input[type="radio"] {
+  border: 0px;
+  width: 20px;
+  height: 2em;
+  margin-right: 12px;
+}
+
+label {
+  display: flex;
+  align-items: center;
+}
+
+.resumo {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  background-color: #ddd;
+  justify-content: center;
+}
+
+.subtotal,
+.total-compra {
+  border-bottom: 1px solid black;
+
+  display: inherit;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.frete {
+  border-bottom: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.total-compra {
+  font-size: 20px;
+}
+
+.confirma-compra-btn {
+  background: #222;
+  border-radius: 20px;
+  margin-right: 15px;
+  box-shadow: 3px 3px #aaa;
+  color: #fff;
+  height: 35px;
+  margin-top: 18px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  width: 100%;
+}

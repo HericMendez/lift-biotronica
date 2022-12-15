@@ -1,0 +1,33 @@
+.products{
+    display: flex;
+    flex-direction: row;
+ 
+}
+
+.product-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.product-img{
+    height: 150px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.cart-btn{
+    background: #222;
+    width: 80px;
+    border-radius: 20px;
+    margin-top: 5px;
+    box-shadow: 3px 3px  #aaa;
+}
+
+p, h4{
+    padding: 0px;
+    margin: 5px;
+
+}
+

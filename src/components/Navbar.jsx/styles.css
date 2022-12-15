@@ -1,0 +1,25 @@
+ul{
+    display: flex;
+    flex-direction: column;
+
+}
+
+li{
+    list-style-type: none;
+    padding-left: 20px;
+    font-size: 1.3em;
+
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+nav{
+    position: fixed;
+    top: 0px;
+    
+    background-color: #222;
+    width: 100%;
+}

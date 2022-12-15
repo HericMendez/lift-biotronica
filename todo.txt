@@ -1,0 +1,64 @@
+Pages:
+
+Home
+Product
+About
+Contact
+ShoppingCart
+Checkout
+Page404
+
+Components
+Navigation Drawer
+Header
+Footer
+
+tasks:
+[Frontend] Criar estrutura básica - Website Biotrônica
+[Frontend] Inserir Layout - Header/Footer
+[Frontend] Gaveta de Navegação 
+[Frontend] Página "Home"
+[Frontend] Página "Sobre Nós"
+[Frontend] Página do Produto
+[Frontend] Página "Contato" (formuulário)
+[Frontend] Artes do site - Estevan
+[Frontend] Página Carrinho de Compras
+[Frontend] Funcionalidade Carrinho de Compras
+[Frontend] Página Checkout (formulário)
+[Frontend] Página 404
+
+[Frontend] Procurar Imagens das páginas (orçamento se forem premium)
+[Frontend] Encontrar meio de rodar vídeo automático na página inicial
+
+
+https://www.figma.com/file/Zdg9LeUxiOqq1HTvcHU6Db/Website-Biotr%C3%B4nica?node-id=0%3A1&t=TFkpkgI4gik9N7NS-1
+
+Anotações da reunião:
+
+Home:
+Carrossel de frases de efeito ou imagem de atleta treinando (temporizado)
+foto do produto com fade in
+Call to action com frase chamativa ("explore", "descubra", etc)
+treino com lift: fotos de atletas em grid, cada foto do grid com text overlay
+seção de "pra que serve" antes da seção de tecnologia
+IOT -  Foto de alguém usando o celular
+Telemetria -  Foto de pessoa interagindo com gráficos num tablet
+IA - Efeito  de imagem (?)
+Rodapé com frase de chamada, formulário de newsletter, dados de contato
+
+
+Página de compra:
+infos do produto e artes (Estevan)
+Barra de navegação oculta (expande com botão)
+Encolher barra "Lift"
+
+Sobre nós:
+Foto de equipamentos
+Texto relacionado
+Time de especialistas/Embaixadores da marca
+
+Página 404:
+Vídeos de atletas errando o exercício
+
+
+
